@@ -1,0 +1,14 @@
+C:\DATA\develoment\PV207\PV207\obj\Debug\PV207.csprojResolveAssemblyReference.cache
+C:\DATA\develoment\PV207\PV207\bin\PV207.dll.config
+C:\DATA\develoment\PV207\PV207\bin\PV207.dll
+C:\DATA\develoment\PV207\PV207\bin\PV207.pdb
+C:\DATA\develoment\PV207\PV207\bin\Newtonsoft.Json.dll
+C:\DATA\develoment\PV207\PV207\bin\System.Net.Http.Formatting.dll
+C:\DATA\develoment\PV207\PV207\bin\System.Web.Http.dll
+C:\DATA\develoment\PV207\PV207\bin\System.Web.Http.WebHost.dll
+C:\DATA\develoment\PV207\PV207\bin\Newtonsoft.Json.xml
+C:\DATA\develoment\PV207\PV207\bin\System.Net.Http.Formatting.xml
+C:\DATA\develoment\PV207\PV207\bin\System.Web.Http.xml
+C:\DATA\develoment\PV207\PV207\bin\System.Web.Http.WebHost.xml
+C:\DATA\develoment\PV207\PV207\obj\Debug\PV207.dll
+C:\DATA\develoment\PV207\PV207\obj\Debug\PV207.pdb
