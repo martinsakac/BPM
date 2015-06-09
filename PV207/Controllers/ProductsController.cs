@@ -12,9 +12,11 @@ namespace PV207.Controllers
     {
         Product[] products = new Product[] 
         { 
-            new Product { Id = 1, Name = "Tomato Soup", Category = "Groceries", Price = 1 }, 
-            new Product { Id = 2, Name = "Yo-yo", Category = "Toys", Price = 3.75M }, 
-            new Product { Id = 3, Name = "Hammer", Category = "Hardware", Price = 16.99M } 
+            new Product { Id = 1, Name = "Ibalgin", Category = "General", Price = 50 }, 
+            new Product { Id = 2, Name = "Soap", Category = "Drogery", Price = 35 }, 
+            new Product { Id = 3, Name = "Tooth brush", Category = "Drogery", Price = 40 },
+            new Product { Id = 3, Name = "Framykoin", Category = "Healing spread", Price = 150 },
+            new Product { Id = 3, Name = "Olynth", Category = "Nose drops", Price = 150 } 
         };
 
 
